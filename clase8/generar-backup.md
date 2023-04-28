@@ -1,4 +1,4 @@
-# Generar un backup de una o varias bases d4e datos
+# Generar un backup de una o varias bases de datos
 > Pasos
  
 
